@@ -1,5 +1,3 @@
-# Ulisse CTF Team
-
 - 🚩 CTF Team 
 - 💻 Cybersec workshop
 
