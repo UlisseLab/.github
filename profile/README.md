@@ -1,6 +1,8 @@
-# Ulisse Lab
-
-Cybersecurity Laboratory @ University of Bologna🧪 
+# Ulisse CTF Team
 
 - 🚩 CTF Team 
-- 💻 Training laboratory, cybersec workshop
+- 💻 Cybersec workshop
+
+#### Links
+- 📖 [Wiki](https://ctf.ulis.se/wiki/)
+
