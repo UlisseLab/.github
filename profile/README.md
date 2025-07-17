@@ -1,4 +1,4 @@
-# 👾 Ulisse Labs – Capture the Flag & Cybersecurity Team @ UniBo
+# 👾 Ulisse Lab - Cybersecurity & CTF Team @ UniBo
 
 Welcome to the **Ulisse Labs**, a passionate community of cybersecurity enthusiasts and CTF (Capture the Flag) competitors from the University of Bologna.
 
@@ -6,7 +6,7 @@ Welcome to the **Ulisse Labs**, a passionate community of cybersecurity enthusia
 
 Here are some of our notable projects:
 
-- **[Tulip - Ulisse version](https://github.com/UlisseLab/tulip)** - A fork of the notorious Tulip network traffic analyzer, built by us.
+- **[Tulip - Ulisse version](https://github.com/UlisseLab/tulip)** - A fork of the notorious Tulip network traffic analyzer.
 - **[euriclea](https://github.com/UlisseLab/euriclea)** – A TCP fingerprinting tool.
 
 ## 🧠 Useful Links
